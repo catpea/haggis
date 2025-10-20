@@ -1,6 +1,7 @@
 {
   "type": "module",
   "name": "haggis",
+  "main": "index.js",
   "version": "1.0.1",
   "description": "Read argv based on object template",
   "scripts": {
