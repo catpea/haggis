@@ -2,7 +2,7 @@
   "type": "module",
   "name": "haggis",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Read argv based on object template",
   "scripts": {
     "test": "node --test",
