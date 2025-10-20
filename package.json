@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "haggis",
+  "version": "1.0.1",
+  "description": "Read argv based on object template",
+  "scripts": {
+    "test": "node --test",
+    "save": "git add .; git commit -m 'Updated Release'; npm version patch; npm publish; git push --follow-tags;"
+  },
+  "keywords": [
+    "cli",
+    "argv"
+  ],
+  "author": "@catpea",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/catpea/haggis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/catpea/haggis/issues"
+  },
+  "homepage": "https://github.com/catpea/haggis#readme"
+}
